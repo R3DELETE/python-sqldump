@@ -1,2 +1,2 @@
 # python-sqldump
-Python Üzerinden Yapmış Olduğum Sql Dosyası çekme
+Python Üzerinden Yapmış Olduğum Discord Üzerinden Sql alma
